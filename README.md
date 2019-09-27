@@ -1,5 +1,1 @@
-# GitPractice
-
-README
-
-add something
+# Delete all
